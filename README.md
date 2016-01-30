@@ -1,2 +1,2 @@
 # spring-boot-sample
-spring-boot
+spring-boot jdbc aop
